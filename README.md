@@ -1,5 +1,5 @@
 # Alura - Imersão Backend: Metalink
-Metalink é uma rede social de fotos totalmente *funcional* feito durante a imersão backend, neste repositório contém o *back-end* do projeto.
+Metalink é uma rede social de fotos totalmente **funcional** feito durante a imersão backend, neste repositório contém o *back-end* do projeto.
 # Requisitos
 Antes de executar o projeto, é necessário ter o Node.js instalado em seu computador. A versão recomendada é *v20.x.x.*
 # Instruções de execução
